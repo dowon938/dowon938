@@ -1,6 +1,6 @@
-### Hi there 👋
 <h3 align="center">Tech Stack 🛠</h3>
-<p align="center">
+<h3>Tech Stack 🛠</h3>
+<p >
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
@@ -11,20 +11,20 @@
     <img src="https://img.shields.io/badge/Openlayers-1F6B75?style=flat-square&logo=Openlayers&logoColor=white"/></a> &nbsp
 </p>
 
-<h3 align="center">My 🌟</h3>
-<p align="center">
+<h3>My 🌟</h3>
+<p>
     <a href="https://velog.io/@dowon938">
         <img src="https://img.shields.io/badge/velog-20c997?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@dowon938"/>
     </a> &nbsp
     <a href="https://yourtube-app.netlify.app/">
-        <img src="https://img.shields.io/badge/yourTube-253B73?style=flat-square&logo=YouTube&logoColor=white&link=https://yourtube-app.netlify.app/"/>
+        <img src="https://img.shields.io/badge/yourTubeApp-253B73?style=flat-square&logo=YouTube&logoColor=white&link=https://yourtube-app.netlify.app/"/>
     </a> &nbsp
     <a href="">
         <img src="https://img.shields.io/badge/dowon938@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
     </a> &nbsp
 </p>
 
-<p align="center">
+<p>
     <img src="https://github-readme-stats.vercel.app/api?username=dowon938&show_icons=true&theme=gotham"/><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dowon938&layout=compact&theme=gotham&langs_count=6&card_width=445"/>
 </p>
