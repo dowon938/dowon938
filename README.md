@@ -17,10 +17,10 @@
         <img src="https://img.shields.io/badge/velog-20c997?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@dowon938"/>
     </a> &nbsp
     <a href="https://yourtube-app.netlify.app/">
-        <img src="https://img.shields.io/badge/yourTube-28c074?style=flat-square&logo=YouTube&logoColor=white&link=https://yourtube-app.netlify.app/"/>
+        <img src="https://img.shields.io/badge/yourTube-253B73?style=flat-square&logo=YouTube&logoColor=white&link=https://yourtube-app.netlify.app/"/>
     </a> &nbsp
     <a href="">
-        <img src="https://img.shields.io/badge/dowon938@naver.com-03C75A?style=flat-square&logo=Gmail&logoColor=white"/>
+        <img src="https://img.shields.io/badge/dowon938@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
     </a> &nbsp
 </p>
 
