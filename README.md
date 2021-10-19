@@ -19,8 +19,8 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=dowon938&show_icons=true&theme=gotham"/></a> <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dowon938&layout=compact&theme=gotham&langs_count=6&card_width=445"/></a> &nbsp
+    <img src="https://github-readme-stats.vercel.app/api?username=dowon938&show_icons=true&theme=gotham"/><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dowon938&layout=compact&theme=gotham&langs_count=6&card_width=445"/>
 </p>
 
 <!--
