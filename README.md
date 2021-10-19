@@ -19,7 +19,7 @@
 
 <a href="https://velog.io/@dowon938">
     <img 
-        src="http://img.shields.io/badge/-velog-20c997?style=flat&logo=Vimeo&link=https://velog.io/@dowon938"
+        src="http://img.shields.io/badge/velog-20c997?style=flat-quare=Vimeo&link=https://velog.io/@dowon938"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
