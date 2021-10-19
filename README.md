@@ -1,9 +1,12 @@
 ### Hi there 👋
 <a href="https://velog.io/@dowon938">
     <img 
-        src="http://img.shields.io/badge/-Velog-222222?style=flat&logo=Vector Logo Zone&link=https://velog.io/@dowon938"
+        src="http://img.shields.io/badge/-velog-222222?style=flat&logo=Vector Logo Zone&link=https://velog.io/@dowon938"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
+![seong do won's GitHub stats](https://github-readme-stats.vercel.app/api?username=dowon938&show_icons=true&theme=dark)
+
 
 
 <!--
