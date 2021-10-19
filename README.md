@@ -18,8 +18,8 @@
     <img src="https://img.shields.io/badge/velog-20c997?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@dowon938"/>
 </a>
 
-![seong do won's GitHub stats](https://github-readme-stats.vercel.app/api?username=dowon938&show_icons=true&theme=gotham&card_width=350)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dowon938&layout=compact&theme=gotham&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+![seong do won's GitHub stats](https://github-readme-stats.vercel.app/api?username=dowon938&show_icons=true&theme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dowon938&layout=compact&theme=gotham&langs_count=6&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
