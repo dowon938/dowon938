@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+<a href="https://velog.io/@dowon938">
+    <img 
+        src="http://img.shields.io/badge/-velog-222222?style=flat&logo=velog&link=https://velog.io/@dowon938"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 <!--
 **dowon938/dowon938** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
