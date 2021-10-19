@@ -6,6 +6,7 @@
 </a>
 
 ![seong do won's GitHub stats](https://github-readme-stats.vercel.app/api?username=dowon938&show_icons=true&theme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dowon938&layout=compact&theme=gotham&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
